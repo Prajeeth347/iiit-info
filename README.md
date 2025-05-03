@@ -8,11 +8,8 @@
  MEMBERS NAME :-
 
  NAME - Prajeeth <br />
- ROLL - S20200020303 <br />
  NAME -Mayank Gupta <br />
- ROLL - S20200020280 <br />
  NAME - Aalhad Ajay Kate <br />
- ROLL - S20200010001 <br />
 # Pre-requisites
 Android mobile with Android 6.0 and above
 # Steps to run the application
